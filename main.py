@@ -1,4 +1,4 @@
-REPLACED = "the-text-has-been-replaced""
+REPLACED = "the-text-has-been-replaced"
 
 def setup(manifest, service_name, text_to_replace):
   manifest = manifest.replace(text_to_replace, REPLACED)
