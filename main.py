@@ -1,4 +1,4 @@
-mport json
+import json
 
 REPLACED = "the-text-has-been-replaced"
 
