@@ -16,4 +16,3 @@ def create_flow(service_spec, deployment_spec, flow_uuid, text_to_replace):
 
 def delete_flow(config_map, flow_uuid):
     print(config_map["original_text"])
-    return None
